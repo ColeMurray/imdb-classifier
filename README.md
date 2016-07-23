@@ -2,7 +2,6 @@
 A python stochastic gradient sentiment classifier.
 
 Run:
-git clone git@github.com:ColeMurray/imdb-classifier.git
-python run.py
-
-Navigate to locahost:8080 in browser
+1. git clone git@github.com:ColeMurray/imdb-classifier.git
+2. python run.py
+3. Navigate to locahost:8080 in browser
