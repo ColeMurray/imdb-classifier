@@ -1,8 +1,8 @@
 # coding: utf-8
-import os
 import pickle
 
-from vectorizer import vect
+import os
+from app.vectorizer import vect
 
 clf = pickle.load(open(os.path.join('pkl_objects', 'classifier.pkl'), 'rb'))
 import numpy as np
